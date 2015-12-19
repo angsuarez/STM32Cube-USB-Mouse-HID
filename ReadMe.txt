@@ -3,7 +3,7 @@
   * File Name          : readme.txt
   * Date of create     : 2015-11-25
   * Author             : Ian Jin  
-  * Description        : Readme file of STM32Cube USB HID project     
+  * Description        : Readme file of STM32CubeMx USB HID project     
   ******************************************************************************
   *
   * Copyright (C) Ian Jin
@@ -14,7 +14,8 @@
   */
   
   @ Descriptions 
-  - A STM32Cube USB full speed HID class test project
+  - A STM32CubeMx USB full speed HID class test project
+  - Initial code was generatec by STM32CubeMX
   - This project will work as a USB mouse
   - Mouse cursor will loop a diamond curve on screen
   - Four LEDs will show moving direction at the same time 
